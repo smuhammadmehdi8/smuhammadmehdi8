@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning coding.
 - 💞️ I’m looking to collaborate on coding with people.
 - 📫 How to reach me through good coding heh.
-- 😄 Pronouns: im normal bruh
+- 😄 Pronouns: default
 - ⚡ Fun fact: i code
 
 <!---
